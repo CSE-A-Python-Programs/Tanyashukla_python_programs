@@ -1,2 +1,0 @@
-Tanya_shukla_python_progrma
-Python
